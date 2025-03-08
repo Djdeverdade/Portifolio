@@ -44,22 +44,6 @@ a{
     margin-right: 10px;
 }
 
-.button{
-    background-color: #F25A70;
-    width: 170px;
-    height: 60px;
-    box-shadow: 5px 5px 0px 0px #000;
-    margin: 0px;
-    justify-content: center;
-    transition: transform 100ms linear;
-}
-
-.button:hover{
-    background-color: #f25a71e1;
-    transform: scale(1.05);
-    transition: transform 100ms linear;
-}
-
 #banner{
     margin-top: 10px;
     width: 100%;
@@ -73,15 +57,14 @@ a{
     border-right: 5px solid black;
 }
 
-#banner-tittle{
-    font-family: "Press Start 2P";
+#banner-tittle-box{
     display: inline-block;
     width: 627px;
     margin-left: 91px;
     margin-top: 116px;
     background: #3A4042;
     justify-items: center;
-    text-shadow: 4px 4px 0px #000;
+    
     filter: drop-shadow(10px 10px 0px #000);
 }
 
@@ -100,8 +83,4 @@ a{
     margin: 42px 33px 28px 74px;
 }
 
-#banner-tittle h2{
-    font-size: 30px;
-    color: #FFF; 
-    margin: 28px 47px 44px 40px;
-}
+#banner-tittle 
