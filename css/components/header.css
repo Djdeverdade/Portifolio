@@ -1,0 +1,16 @@
+.header{
+    background-color: #7C5E99;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 10px solid #000;
+    padding-right: 40px;
+}
+
+.header .avatar-icon{
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+    background-color: #F25A70;
+}
