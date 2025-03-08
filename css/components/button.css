@@ -1,0 +1,15 @@
+.button{
+    background-color: #F25A70;
+    width: 170px;
+    height: 60px;
+    box-shadow: 5px 5px 0px 0px #000;
+    margin: 0px;
+    justify-content: center;
+    transition: transform 100ms linear;
+}
+
+.button:hover{
+    background-color: #f25a71e1;
+    transform: scale(1.05);
+    transition: transform 100ms linear;
+}
