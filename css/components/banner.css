@@ -1,0 +1,25 @@
+.banner{
+    background-image: url(/assets/img/banner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 807px;
+    box-sizing: border-box;
+    border-bottom: 10px solid #000;
+}
+.banner .wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 640px;
+    padding-top: 116px;
+    padding-left: 91px;
+    background-color: rgba(0, 0, 0, 0.452);
+    padding-right: 485px;
+    border-right: 5px solid rgb(0, 0, 0);
+    padding-bottom: 415px;
+}
+.banner .navigation{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 38px;
+}
