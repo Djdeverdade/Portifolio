@@ -1,13 +1,7 @@
 .skills-section{
-    display: flex;
     height: 740px;
     background-color: #F25A70;
-    justify-content: center;
     padding-top: 50px;
     border-bottom: 10px solid #7C5E99;
 }
 
-.skills-section .tittle{
-    color: #fff;
-    text-shadow: none;
-}

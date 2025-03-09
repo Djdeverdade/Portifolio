@@ -5,3 +5,9 @@
     text-shadow: 4px 4px 0px #000;
 }
 
+.tittle.-second{
+    color: #fff;
+    text-shadow: none;
+    display: block;
+    text-align: center;
+}
